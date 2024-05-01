@@ -47,7 +47,7 @@ Beberapa library yang digunakan dalam pembuatan game ini antara lain:
 </p>
 
 ## UML Class Diagram
-Berikut UML Class diagram game ini [UML Class Diagram](https://docs.google.com/presentation/d/18d8pZqbxZVnf1Y8EA2RH1AyYelGW69cQ/edit?usp=sharing&ouid=114934909865844875436&rtpof=true&sd=true) 
+Berikut UML Class diagram game ini [UML Class Diagram](https://github.com/Andreas122140088/Belwis-TD/blob/main/uml%20belwis%20td-RC01.png) 
 
 ## Tim Pengembang
 |Nama|NIM|GitHub|
