@@ -36,7 +36,7 @@ Beberapa library yang digunakan dalam pembuatan game ini antara lain:
  Permainan berakhir (game over) ketika health dari base pemain mencapai poin 0 (nol), pemain akan dialihkan ke dalam menu game over dan terdapat tombol untuk memulai permainan kembali atau kembali ke main menu.
 </p> 
 
-### Sedikit penjelasan:
+### Penjelasan:
 
 <p align="justify"">
  Pygame merupakan kumpulan dari beberapa modul Python yang khusus dibuat untuk mengembangkan game, di dalam modul tersebut terdapat library simple directmedia layer yang berfungsi untuk mendukung pengembangan game. <br><br>
