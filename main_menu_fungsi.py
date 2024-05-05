@@ -33,14 +33,3 @@ class Button():
             self.text = self.font.render(self.text_input, True, self.warna_bayangan)
         else:
             self.text = self.font.render(self.text_input, True, self.warna_dasar)
-# import pygame
-
-# class Button():
-#     def __init__(self, pos):
-#         self.x_pos = pos[0]
-#         self.y_pos = pos[1]
-#         self.image = pygame.image.load("asset/start.png").convert_alpha()
-#         self.rect = self.image.get_rect(center=(self.x_pos, self.y_pos))
-
-#     def check_for_input(self, posisi):
-#         return self.rect.collidepoint(posisi)
