@@ -24,11 +24,7 @@ class Button():
             return True
         return False
     
-    def berubahWarna(self, posisi): #mouse_pos) :#posis ):
-        # if self.rect.collidepoint(mouse_pos):
-        #     return self.warna_bayangan
-        # else:
-        #     return self.warna_dasar
+    def berubahWarna(self, posisi):
         if posisi[0] in range(self.rect.left, self.rect.right) and posisi[1] in range(self.rect.top, self.rect.bottom):
             self.text = self.font.render(self.text_input, True, self.warna_bayangan)
         else:
