@@ -31,7 +31,7 @@ Beberapa library yang digunakan dalam pembuatan game ini antara lain:
 </p>
 
 <p align="justify"">
- Permainan berakhir (game over) ketika health dari base pemain mencapai poin 0 (nol), pemain akan dialihkan ke dalam menu game over dan terdapat tombol untuk memulai permainan kembali atau kembali ke main menu.
+ Permainan berakhir (game over) ketika health dari base pemain mencapai poin 0 (nol), pemain akan dialihkan ke dalam menu game over dan terdapat tombol untuk memulai permainan kembali.
 </p> 
 
 ### Penjelasan:
