@@ -17,9 +17,8 @@
 Beberapa library yang digunakan dalam pembuatan game ini antara lain:
 
 1. Modul pygame
-2. Modul OS
-3. Modul math
-4. Modul Random
+2. Modul math
+3. Modul Random
    
 ## Cara Bermain
 
@@ -39,10 +38,9 @@ Beberapa library yang digunakan dalam pembuatan game ini antara lain:
 
 <p align="justify"">
  Pygame merupakan kumpulan dari beberapa modul Python yang khusus dibuat untuk mengembangkan game, di dalam modul tersebut terdapat library simple directmedia layer yang berfungsi untuk mendukung pengembangan game. <br><br>
- Modul sys berfungsi untuk membantu mengakses variabel lingkungan, mengelola argumen baris perintah dan menangani eksepsi pada python.<br><br>
+ Modul 
  Modul random, modul ini menyediakan berbagai fungsi yang bersifat acak, seperti memilih angka dari rentan tertentu atau pada aplikasi ini untuk memilih secara acak enemy yang akan keluar.<br><br>
  Modul math, modul ini digunakan untuk operasi matematika sederhana dan di dalamnya menyediakan fungsi-fungsi matematika dasar.<br><br>
- Modul vector 
 </p>
 
 ## UML Class Diagram
