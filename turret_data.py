@@ -1,22 +1,22 @@
 TURRET_DATA_1 = [
   {
     #1
-    "range": 90,
+    "range": 128,
     "cooldown": 1500,
   },
   {
     #2
-    "range": 110,
+    "range": 130,
     "cooldown": 1200,
   },
   {
     #3
-    "range": 125,
+    "range": 145,
     "cooldown": 1000,
   },
   {
     #4
-    "range": 150,
+    "range": 170,
     "cooldown": 900,
   }
 ]
@@ -24,45 +24,45 @@ TURRET_DATA_1 = [
 TURRET_DATA_2 = [
   {
     #1
-    "range": 90,
-    "cooldown": 1500,
+    "range": 190,
+    "cooldown": 2500,
   },
   {
     #2
-    "range": 110,
-    "cooldown": 1200,
+    "range": 200,
+    "cooldown": 2500,
   },
   {
     #3
-    "range": 125,
-    "cooldown": 1000,
+    "range": 225,
+    "cooldown": 1800,
   },
   {
     #4
-    "range": 150,
-    "cooldown": 900,
+    "range": 250,
+    "cooldown": 1500,
   }
 ]
 
 TURRET_DATA_3 = [
   {
     #1
-    "range": 90,
+    "range": 170,
     "cooldown": 1500,
   },
   {
     #2
-    "range": 110,
+    "range": 190,
     "cooldown": 1200,
   },
   {
     #3
-    "range": 125,
+    "range": 200,
     "cooldown": 1000,
   },
   {
     #4
-    "range": 150,
+    "range": 225,
     "cooldown": 900,
   }
 ]
