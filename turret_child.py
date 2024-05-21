@@ -20,12 +20,12 @@ class Turret1(Turret):
 class Turret2(Turret):
   def __init__(self, sprite_sheets, tile_x, tile_y, shot_fx):
     self.level = 1
-    self.cooldown = 50
-    self.range = 70
+    self.cooldown = TURRET_DATA_2[0]['cooldown']
+    self.range = TURRET_DATA_2[0]['range']
     super().__init__(sprite_sheets, tile_x, tile_y, shot_fx, self.cooldown, self.range)
 
   def upgrade(self):
-    if self.level < len(TURRET_DATA_3):
+    if self.level < len(TURRET_DATA_2):
       new_cooldown = TURRET_DATA_2[self.level]['cooldown']
       new_range = TURRET_DATA_2[self.level]['range']
       self.level += 1
@@ -36,8 +36,8 @@ class Turret2(Turret):
 class Turret3(Turret):
   def __init__(self, sprite_sheets, tile_x, tile_y, shot_fx):
     self.level = 1
-    self.cooldown = 125
-    self.range = 1000
+    self.cooldown = TURRET_DATA_3[0]['cooldown']
+    self.range = TURRET_DATA_3[0]['range']
     super().__init__(sprite_sheets, tile_x, tile_y, shot_fx, self.cooldown, self.range)
 
   def upgrade(self):
