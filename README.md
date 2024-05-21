@@ -18,9 +18,8 @@ Beberapa library yang digunakan dalam pembuatan game ini antara lain:
 
 1. Modul pygame
 2. Modul OS
-3. Modul sys fungsi 'exit'
-4. Modul math
-5. Modul vector
+3. Modul math
+4. Modul Random
    
 ## Cara Bermain
 
