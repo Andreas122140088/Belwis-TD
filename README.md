@@ -47,12 +47,9 @@ Beberapa library yang digunakan dalam pembuatan game ini antara lain:
 Berikut UML Class diagram game ini [UML Class Diagram](https://github.com/Andreas122140088/Belwis-TD/blob/main/UML/uml.png) 
 
 ## screenshoot
-Main Menu :.<br><br>
-![image](https://github.com/Andreas122140088/Belwis-TD/assets/161736475/95caac2b-5e06-4c18-b54c-dd234eb3cfc6)<br><br>
-Jendela status dan _shop_ :<br><br>
-![image](https://github.com/Andreas122140088/Belwis-TD/assets/161736475/8e4f52ae-9a8f-4a0a-8e79-0767ab5fa6ae)<br><br>
-Permainan :<br><br>
-![image](https://github.com/Andreas122140088/Belwis-TD/assets/161736475/502f2866-1202-4c65-82ee-0cb3bf54e039)<br><br>
+Main Menu :<br><br>![image](https://github.com/Andreas122140088/Belwis-TD/assets/161736475/95caac2b-5e06-4c18-b54c-dd234eb3cfc6)<br><br>
+Jendela status dan _shop_ :<br><br>![image](https://github.com/Andreas122140088/Belwis-TD/assets/161736475/8e4f52ae-9a8f-4a0a-8e79-0767ab5fa6ae)<br><br>
+Permainan :<br><br>![image](https://github.com/Andreas122140088/Belwis-TD/assets/161736475/502f2866-1202-4c65-82ee-0cb3bf54e039)<br><br>
 
 ## Tim Pengembang
 |Nama|NIM|GitHub|
